@@ -137,9 +137,12 @@ Euro 1972,1972-06-18,16:00,West Germany,Soviet Union,3-0,,,,,Final,"Bruxelles, S
 ```
 
 
-
-
 ## Build your own football.db (with sqlite & friends)
+
+Note - the database import is currently reworked to use the new v2 football.txt parser (& machinery).  Thanks for your patience.  
+
+
+<!--
 
 `football.db` quick starter datafile templates -
 `worldcup.db`, `euro.db`, `england.db` etc.
@@ -283,6 +286,8 @@ SYNOPSIS
 EXAMPLES
     sportdb build
 ```
+
+-->
 
 
 
