@@ -13,9 +13,9 @@ resulting in:
 
 ```
 Usage: fbtxt2json [options] DATAFILES or DIRS
-        --verbose, --debug           turn on verbose / debug output (default: false)
-    -o, --output PATH                output to file / dir
-        --seasons SEASONS            turn on processing only seasons (default: false)
+        --verbose, --debug       turn on verbose / debug output (default: false)
+    -o, --output PATH            output to file / dir
+        --seasons SEASONS        turn on processing only seasons (default: false)
 ```
 
 Note - the football.txt to .json converter works in two modes.
@@ -73,9 +73,9 @@ resulting in:
 
 ```
 Usage: fbtxt2csv [options] DATAFILES and/or DIRS
-        --verbose, --debug           turn on verbose / debug output (default: false)
-    -o, --output PATH                output to file
-        --seasons SEASONS            turn on processing only seasons (default: false)
+        --verbose, --debug        turn on verbose / debug output (default: false)
+    -o, --output PATH             output to file
+        --seasons SEASONS         turn on processing only seasons (default: false)
 ```
 
 Let's try to convert the "Euro" European Championship 2024
