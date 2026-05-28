@@ -1,4 +1,4 @@
-# football.db Quick Starter Datafile Templates
+# football.db/.json/.csv How-Tos (& Quick Starter Datafile Templates)
 
 
 ## What's news in 2026?
